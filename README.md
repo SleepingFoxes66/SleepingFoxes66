@@ -3,9 +3,7 @@ Pokemon GoldenFox Official Github Repo
 Pokemon Essentials:Maruno17
 Tilesets:Sirmalo21
 All The SoundtrackGame Freak
------------------------------------------
-Solo Dev Pokemon Fangame
------------------------------------------
+[Solo Dev Pokemon Fangame]
 -----------------------------------------
 Alpha Build 0.1:Pokemon Golden Fox
 -----------------------------------------
